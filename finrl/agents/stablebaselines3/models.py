@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import time
+import statistics
 
 import numpy as np
 import pandas as pd

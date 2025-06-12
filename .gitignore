@@ -147,3 +147,7 @@ papertrading_test.py
 alpaca_processor_test.py
 /finrl/config_private.py
 .history/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
